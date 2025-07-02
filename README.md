@@ -18,6 +18,16 @@ This project is a modern, interactive online furniture store, designed for a sea
 
 ## 🖼️ Screenshots
 
+https://github.com/NipunaS2001/ASSIGNEMENT-WEB-FUuniture-Shop-/blob/main/screencapture-127-0-0-1-5502-products-html-2025-07-02-09_38_51.png
+<br>
+https://github.com/NipunaS2001/ASSIGNEMENT-WEB-FUuniture-Shop-/blob/main/screencapture-127-0-0-1-5502-item1-html-2025-07-02-09_39_37.png
+<br>
+https://github.com/NipunaS2001/ASSIGNEMENT-WEB-FUuniture-Shop-/blob/main/screencapture-127-0-0-1-5502-index-html-2025-07-02-09_38_10.png
+<br>
+https://github.com/NipunaS2001/ASSIGNEMENT-WEB-FUuniture-Shop-/blob/main/screencapture-127-0-0-1-5502-company-html-2025-07-02-09_39_14.png
+<br>
+https://github.com/NipunaS2001/ASSIGNEMENT-WEB-FUuniture-Shop-/blob/main/screencapture-127-0-0-1-5502-about-html-2025-07-02-09_39_04.png
+
 
 
 *(Replace screenshot paths with your actual images in the images/ folder)*
